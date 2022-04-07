@@ -16,4 +16,6 @@ Most bikes were checked out by males followed by females and then people of unkn
 
 
 ***Summary***
-Additional 
+Additional inquiry which could carried out include: determining what sttaion bikers most frequently use and stops they make.
+
+Using gender,we can determine which gender bikes faster and which days of the week they appear to prefer to bike.
