@@ -8,6 +8,9 @@ As part of the process, we deployed pandas to convert the trip duration column i
 
 ***Result***
 
+Our results reveal that most bikes were checked out during the first 20 minutes and thereafter the rate slowed down considerably. 
+
+Most bikes were checked out by males followed by females and then people of unknown gender. Th emales checked out bikes 3X more than females and about 10X more thann others.
 
 
 
