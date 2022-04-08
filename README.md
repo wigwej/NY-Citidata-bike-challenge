@@ -15,6 +15,12 @@ Most bikes were checked out by males followed by females and then people of unkn
 
 Sheet 3 breaks down the rides into weekdays per hour. Relatively few rides (about 360) were taken within the first 5 hours of the day. There was an increase in the rides from 6 am and the rides began to taper down from 20.00 hours. Most bikers rode between 6-10.00am and between 16.00 and 20.00hours. Also the weekends- Saturdays and Sundays witnessed the most rides with the peak rides at 8.00hours and again at 17.00-18.00hours.
 
+Sheet 4 further separated by gender the trips per weekday per hour. Femakes and other bike daily. However most males biked mostly on Monday - Friday morning at 6-9.00hours and evenings at 18.00-20.00hours.
+
+Sheet 5 delineated bikers as customers and bikers as subscribers. Most customers rode daily while more males subcribers had more rides.
+
+Shhet 7 and 8 showed that most bikers are male (1,530,272) followed by female (588,431) and others (225,521).
+Most rides were within a latitude and longtitude of 40.7,-74.00.
 
 
 
