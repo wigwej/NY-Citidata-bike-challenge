@@ -25,6 +25,8 @@ Most rides were within a latitude and longtitude of 40.7,-74.00.
 
 
 ***Summary***
+An investor could seek to maximize the hours of the bike ride- ensuring there are sufficient bikes available early hours of the day and early evening. Bike  maintenance should be done during midday on the weekdays, when we see a few number of rides.
+
 Additional inquiry which could carried out include: determining what sttaion bikers most frequently use and stops they make.
 
 Using gender,we can determine which gender bikes faster and which days of the week they appear to prefer to bike.
